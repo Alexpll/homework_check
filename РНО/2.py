@@ -24,3 +24,5 @@ s = Sorted()
 s.set_data([[1], [3, 2], [6, 5, 4]])
 s.set_key(lambda x: x)
 print(s.my_sort())
+
+# OK

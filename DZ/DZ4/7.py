@@ -11,3 +11,5 @@ suit.remove(miss)
 
 for a, b in product(num, suit):
     print(f'{a} {b}')
+
+# OK

@@ -22,3 +22,5 @@ def eratosthenes_new(n):
 
 
 eratosthenes_new(15)
+
+# OK

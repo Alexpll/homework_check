@@ -19,3 +19,5 @@ second_content = second[:]
 swap(first, second)
 print(first, second_content, first == second_content)
 print(second, first_content, second == first_content)
+
+# OK

@@ -17,3 +17,5 @@ population = sorted(population.items())
 for num, city in population:
     print(f'{num} - {int(num) + 100}:', end=' ')
     print(*sorted(city), sep=', ')
+    
+# OK

@@ -13,3 +13,5 @@ for i in letter:
     else:
         result.append(i)
 print(*result)
+
+# OK

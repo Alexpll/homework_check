@@ -20,3 +20,5 @@ add_friends("Алла", ["Марина", "Иван"])
 print(is_friends("Алла", "Мария"))
 add_friends("Алла", ["Мария"])
 print(is_friends("Алла", "Мария"))
+
+# OK

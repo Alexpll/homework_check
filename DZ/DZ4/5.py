@@ -13,3 +13,5 @@ if all([sum(x) == sum_of_st for x in matrix]) and all([sum(x) == sum_of_st for x
     print('YES')
 else:
     print('NO')
+    
+# OK

@@ -41,3 +41,5 @@ def main(login, password):
 
 ask_password('color', 'clraaa', lambda login: print('super'), lambda login, err: print('bad'))
 main('color', 'claaa')
+
+# OK

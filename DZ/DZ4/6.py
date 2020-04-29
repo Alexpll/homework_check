@@ -22,3 +22,5 @@ print(fib(52))
 print(fib(22))
 print(fib(10))
 print(fib(52))
+
+# OK

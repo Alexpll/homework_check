@@ -7,3 +7,5 @@ while a != '':
     a = input()
 
 print(reduce(gcd, data))
+
+# OK
