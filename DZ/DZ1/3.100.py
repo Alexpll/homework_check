@@ -30,5 +30,5 @@ def squared_new():
             else:
                 print(x, end=' ')
 
-
-squared_new()
+# что-то не то. см. условия задачи
+squared_new() 
