@@ -1,0 +1,7 @@
+Pyaterochka:cheese,75,5, cucumber,150,8, tomato,200,20
+Lenta:yogurt,50,30, tomato,175,12, meat,230,15
+Monetka:fish,150,9, salt,45,40, flour,50,40
+Magazinchik na Akademica Korolyova:cottage cheese,95,21, juice,70,14, cheese,120,3
+Phasol:chips,49,24, fizzy drink,60,32, bread,20,35
+Magnit:onion,65,33, flour,52,45, cake,87,11
+Perekryostok:beetroot,105,7, salad,77,15, dill,120,36
